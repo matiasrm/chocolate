@@ -1,4 +1,4 @@
 
 
-The provided SQL queries for analyzing sales data for a chocolate project.
-By joining and filtering data across multiple tables, these queries deliver key insights into sales performance, product distribution, and geographical sales patterns, aiding in informed decision-making and strategic planning.
+The provided SQL queries analyze sales data for a chocolate project.
+By joining and filtering data across tables, they reveal insights into sales performance, product distribution, and geographical sales patterns, aiding decision-making and planning.
